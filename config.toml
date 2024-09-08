@@ -1,4 +1,0 @@
-baseURL = 'https://example.org/docs/'
-languageCode = 'en-us'
-title = 'Personal blog'
-theme = 'hugo-theme-stack'
